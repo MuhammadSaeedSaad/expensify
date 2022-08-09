@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test ExpenseListItem with an expense 1`] = `
+<div>
+  <Link
+    replace={false}
+    to="/edit/1"
+  >
+    <h3>
+      Description: 
+      Rent
+    </h3>
+  </Link>
+  <p>
+    Amount: 
+    100
+     || Created at: 
+    259200000
+  </p>
+</div>
+`;

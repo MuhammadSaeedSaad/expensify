@@ -4,6 +4,7 @@ import AppRouter from "./routers/AppRouter"
 // to reset the css for all browsers to start from the same point (vid 8.4)
 import "normalize.css/normalize.css";
 import "./styles/styles.scss";
+import "react-dates/lib/css/_datepicker.css";
 
 import { Provider } from "react-redux";
 import configureStore from "./store/configureStore";

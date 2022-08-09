@@ -20,7 +20,6 @@ const filtersReducer = (state = filtersReducerDefaultState, action) => {
                 sortBy: "date"
             };
         case "SORT_BY_AMOUNT":
-            console.log("sort by amount in reducer")
             return {
                 ...state,
                 sortBy: "amount"
