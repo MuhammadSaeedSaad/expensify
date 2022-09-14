@@ -1,5 +1,7 @@
 import moment from "moment";
 
+// note: we here made the expenses' values as overall evaluated values as they will be compared with the overall values of the tested component
+
 const expenses = [
     {
         id: "1",
