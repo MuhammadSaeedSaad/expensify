@@ -13,9 +13,9 @@ exports[`should test ExpenseListItem with an expense 1`] = `
   </Link>
   <p>
     Amount: 
-    100
+    $1.00
      || Created at: 
-    259200000
+    January 4th, 1970
   </p>
 </div>
 `;
